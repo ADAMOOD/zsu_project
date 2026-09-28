@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+access_token
+kaggle.json
+*.csv
